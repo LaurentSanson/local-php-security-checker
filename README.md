@@ -7,7 +7,7 @@ Install
 -------
 
 ```sh
-composer require LaurentSanson/local-php-security-checker
+composer require laurentsanson/local-php-security-checker
 ```
 
 
