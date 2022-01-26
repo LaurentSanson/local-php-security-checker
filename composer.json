@@ -1,0 +1,10 @@
+{
+    "name": "LaurentSanson/local-php-security-checker",
+    "description": "Local security checker since the one from Symfony has been deprecated",
+    "type": "library",
+    "license": "proprietary",
+    "require": {},
+    "bin": [
+        "security-checker"
+    ]
+}
