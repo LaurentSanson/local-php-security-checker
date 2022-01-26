@@ -7,7 +7,7 @@ Install
 -------
 
 ```sh
-composer require idea/local-php-security-checker
+composer require LaurentSanson/local-php-security-checker
 ```
 
 
